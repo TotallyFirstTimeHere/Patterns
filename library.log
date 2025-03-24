@@ -1,0 +1,58 @@
+2025-03-24 16:45:17,505 - Added book: 1984 by George Orwell, 1949
+2025-03-24 16:45:17,506 - Added book: Brave New World by Aldous Huxley, 1932
+2025-03-24 16:45:17,506 - Added book: 1984 by George Orwell, 1949
+2025-03-24 16:45:17,506 - Added user: Librarian: Alice
+2025-03-24 16:45:17,506 - Added user: Reader: Bob
+2025-03-24 16:45:17,506 - Library data saved to library.json
+2025-03-24 16:45:17,513 - Library data loaded from library.json
+2025-03-24 16:54:05,704 - Added book: пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ by пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, 2024
+2025-03-24 16:55:05,677 - Library data saved to пїЅ
+2025-03-24 17:09:00,780 - Added book: Jobless Reincarnation by Rifujin Na Maganote, 2013
+2025-03-24 17:11:05,525 - Library data saved to 6
+2025-03-24 17:11:42,072 - Unhandled exception: 'charmap' codec can't decode byte 0x98 in position 444: character maps to <undefined>
+2025-03-24 17:23:53,509 - Added user: Reader: Taras
+2025-03-24 17:27:07,248 - \u274c Файл library_data.json не знайдено.
+2025-03-24 17:27:07,248 - \u274c Файл library_data.json не знайдено.
+2025-03-24 17:27:34,717 - \u274c Файл library_data.json не знайдено.
+2025-03-24 17:27:34,717 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:28:09,125 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:28:09,125 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:28:16,989 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:28:39,531 - Added user: Reader: Taras
+2025-03-24 17:32:15,971 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:32:33,567 - Added user: Librarian: Bohdan
+2025-03-24 17:33:23,549 - Added book: Jobless Reincarnation by Rifijin Na Maganote, 2014
+2025-03-24 17:34:05,595 - Edited book: Jobless Reincarnation -> Jobless Reincarnation vol.2 by Rifujin Na Maganote, 2015
+2025-03-24 17:34:10,040 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:35:30,185 - Added book: Zapovit by Taras Shevchenko, 1845
+2025-03-24 17:37:39,461 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:38:13,454 - Added user: Reader: Taras
+2025-03-24 17:39:04,582 - \U0001f4da Дані бібліотеки збережено у файл: library.json
+2025-03-24 17:39:14,741 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:40:43,270 - \U0001f4da Дані бібліотеки збережено у файл: library.json
+2025-03-24 17:40:52,482 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:41:02,750 - Added user: Librarian: Bohdan
+2025-03-24 17:41:30,471 - Added book: Jobless Reincarnation by Rifijin Na Maganote, 2013
+2025-03-24 17:42:08,335 - Edited book: Jobless Reincarnation -> Jobless Reincarnation vol.1 by Rifijin Na Maganote, 2013
+2025-03-24 17:42:42,503 - Book not found: Jobless Reincarnation
+2025-03-24 17:43:20,279 - Book not found: Jobless Reincarnation
+2025-03-24 17:43:24,239 - \U0001f4da Дані бібліотеки збережено у файл: library.json
+2025-03-24 17:43:34,908 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:49:07,446 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:49:59,299 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:51:53,683 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:53:49,295 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:54:16,335 - \U0001f4da Дані бібліотеки збережено у файл: library.json
+2025-03-24 17:55:48,900 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 17:56:01,731 - Added user: Reader: WhoIsYou?
+2025-03-24 17:59:58,757 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 18:00:03,032 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 18:00:12,392 - \U0001f4da Дані бібліотеки збережено у файл: library.json
+2025-03-24 18:03:16,062 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 18:05:24,413 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 18:05:29,466 - \U0001f4da Дані бібліотеки збережено у файл: library.json
+2025-03-24 18:05:36,781 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 18:05:45,158 - \U0001f4da Дані бібліотеки збережено у файл: library.json
+2025-03-24 18:12:35,932 - \U0001f4c2 Дані бібліотеки завантажено з файлу: library.json
+2025-03-24 18:13:09,121 - Added book: Kobzar by Taras Shevckenko, 1840
+2025-03-24 18:14:28,154 - \U0001f4da Дані бібліотеки збережено у файл: library.json
